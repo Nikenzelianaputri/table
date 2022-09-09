@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+}
+th {
+    background-color: rgb(233, 8, 132);
+}
+tr:nth-child(even) {
+    background-color: rgb(241, 154, 195);
+}
+h1 {
+    text-align: center;
+}
